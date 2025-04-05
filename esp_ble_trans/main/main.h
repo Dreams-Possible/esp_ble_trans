@@ -5,5 +5,3 @@
 #include"sp_sys.h"
 #include"sp_uart.h"
 #include"sp_ble.h"
-
-
